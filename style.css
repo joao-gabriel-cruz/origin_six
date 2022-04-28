@@ -99,7 +99,8 @@ body{
  }
  .grid{
    display: grid;
-   gap: 2rem
+   gap: 2rem;
+   
  }
  
 .title{
